@@ -29,7 +29,7 @@ Further info can be found in the [official docs](https://docs.microsoft.com/en-u
 
 #### 4. Configure Starship
 - Create a directory in your home folder named ".config"
-- WIthin it, copy and paste the .toml file in this repo
+- WIthin it, copy and paste the .toml file in this repo, I don't really give a fuck how you do this
 
 #### 5. Let's Think Creatively
 - Open up your PowerShell however you like
@@ -76,7 +76,7 @@ Colour change
 
 #### 5. Configure Starship
 - Create a directory in your home folder named ".config"
-- WIthin it, copy and paste the .toml file in this repo
+- WIthin it, copy and paste the .toml file in this repo, again I don't really give a fuck how you do this
 
 #### Congrats, You're Done
 
