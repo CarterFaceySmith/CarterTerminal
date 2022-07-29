@@ -90,9 +90,9 @@ I recently installed Gum for writing and displaying shell scripts, so far it has
 Further, I recently installed Glow as well. I personally use a lot of markdown files for various things, rendering them in nano is fine but *this*? Well this is much nicer.
 
 #### [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)
-Disclaimer: Yeah alright, *teeeechnically* it's got nothing to do with the terminal aside from making it easier to launch, but I like it and this is my guide so bugger off.
+Disclaimer: Yeah alright, *teeeechnically* it's got nothing to do with the terminal aside from making it easier to launch, but I like it and this is my guide so fuck off.
 
-This is bar none the biggest upgrade to my Windows workflow due to Run and FancyZones, if you're on Windows and don't have it you're mising out big time.
+This is bar none the biggest upgrade to my Windows workflow due to Run and FancyZones, if you're on Windows and don't have it you're missing out big time.
 
 #### Misc. Nonsense
 I changed my default command line terminal to nano because I'm not smart enough to use Vim or its' derivatives.
