@@ -78,6 +78,8 @@ Colour change
 - Create a directory in your home folder named ".config"
 - WIthin it, copy and paste the .toml file in this repo
 
+#### Congrats, You're Done
+
 ## Additional Notes
 ### Not Ya Mumma's Homespun Terminal
 
