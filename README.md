@@ -49,12 +49,6 @@ Further info can be found in the [official docs](https://docs.microsoft.com/en-u
 
 ## Mac/Linux
 ### Now We're Cooking
-iTerm2
-iTerm2 config
-Starship
-Starship config
-Font change
-Colour change
 
 #### 1. [iTerm](https://iterm2.com/)
 - Navigate to the above page, download it, use it, don't question it.
