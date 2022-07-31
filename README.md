@@ -90,3 +90,5 @@ This is bar none the biggest upgrade to my Windows workflow due to Run and Fancy
 
 #### Misc. Nonsense
 I changed my default command line terminal to nano because I'm not smart enough to use Vim or its' derivatives.
+
+But *Carter*! Why don't you use Oh-My-Zsh or Fish Shell?! Because it's too much, there's a balance to be struck and they lean just too much to the flashy side for me.
